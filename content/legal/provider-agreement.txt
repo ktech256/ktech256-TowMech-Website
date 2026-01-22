@@ -1,1 +1,124 @@
+TOWMECH PROVIDER AGREEMENT (MECHANICS & TOW TRUCK OPERATORS)
 
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+Company: Texas Computer Hub (“TowMech”, “we”, “us”, “our”)
+Support Email: support@towmech.com
+
+This Provider Agreement applies to all Providers on TowMech, including:
+- Tow Truck Operators
+- Mechanics
+- Any service professionals registered as Providers on the TowMech platform
+
+By registering as a Provider, you agree to all terms below.
+
+
+1. Provider Status (Independent Contractor)
+
+Providers are independent contractors and not employees, agents, or partners of TowMech.
+
+You confirm that:
+- You operate independently
+- You provide your own equipment and tools
+- You are responsible for your own costs, taxes, and compliance
+- TowMech does not control your work methods, only platform rules
+
+
+2. Verification & Approval
+
+All Providers must submit required documents for verification.
+
+TowMech reserves the right to:
+- Approve or reject any Provider registration
+- Request additional documents
+- Suspend or terminate a Provider account at any time
+- Restrict access until verification is complete
+
+Providers may not access certain features until approved.
+
+
+3. Provider Obligations
+
+You agree to:
+- Provide accurate information during registration
+- Keep your profile updated
+- Provide services professionally and safely
+- Respond to jobs honestly and promptly
+- Respect Customers and their property
+- Avoid harassment, threats, or abusive behavior
+- Comply with applicable South African laws and regulations
+- Avoid fraudulent actions or false claims
+
+
+4. Service Quality and Responsibility
+
+Providers are fully responsible for:
+- The quality of services delivered
+- Tools and equipment used
+- Any damage caused by negligence
+- Safety compliance during service
+- Communicating clearly with Customers
+
+TowMech does not guarantee Provider performance and is not responsible for repair outcomes.
+
+
+5. Job Acceptance Rules
+
+If you accept a job, you are expected to complete it unless there is a valid reason.
+
+TowMech may take action against Providers who:
+- Accept jobs and repeatedly cancel
+- Delay unreasonably without communication
+- Mislead Customers
+- Attempt to charge unauthorized fees
+- Attempt to move service off-platform
+
+
+6. Pricing and Payments
+
+Providers agree that:
+- TowMech may apply booking fees, commissions, or platform charges
+- TowMech may change pricing rules at any time
+- TowMech may hold or delay payments where fraud checks are required
+- TowMech may reverse or block payments linked to disputes or abuse
+
+
+7. Provider Conduct & Safety
+
+Providers must:
+- Maintain respectful conduct at all times
+- Avoid unsafe behavior
+- Not carry out illegal activity
+- Not use TowMech for harassment or intimidation
+- Not request Customer OTPs or passwords
+- Not misuse Customer identity information
+
+TowMech may report misconduct to authorities where required.
+
+
+8. Suspension & Termination
+
+TowMech reserves full rights to suspend, restrict, or terminate any Provider account, without notice, for:
+- Fraud or suspected fraud
+- Abuse of the platform
+- Unsafe conduct
+- Poor service behavior
+- Document falsification
+- Customer complaints
+- Violation of TowMech rules
+- Any action that harms TowMech reputation or user safety
+
+TowMech’s decision is final unless legally required otherwise.
+
+
+9. Provider Data and Document Storage
+
+Providers acknowledge that verification documents may be stored using Firebase or other secure services.
+
+Providers must ensure documents submitted are legitimate and up to date.
+
+
+10. Contact
+
+For Provider support:
+support@towmech.com

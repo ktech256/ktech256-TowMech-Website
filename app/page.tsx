@@ -1,13 +1,25 @@
+import { Suspense } from "react";
+import dynamic from "next/dynamic";
 import { Badge } from "@/components/Badge";
 import { Button } from "@/components/Button";
 import { Section } from "@/components/Section";
-import { ServiceCard } from "@/components/ServiceCard";
-import { TestimonialCarousel } from "@/components/TestimonialCarousel";
-import { Accordion } from "@/components/Accordion";
 import { Reveal } from "@/components/Reveal";
 import { SmartImage } from "@/components/SmartImage";
-import { services, howItWorks, faqs, testimonials } from "@/lib/data";
+import { SectionSkeleton } from "@/components/SectionSkeleton";
+import { howItWorks } from "@/lib/data";
 import { ShieldCheck, Smartphone, Timer } from "lucide-react";
+
+const ServicesSection = dynamic(
+  () => import("@/components/home/ServicesSection"),
+  { suspense: true },
+);
+const TestimonialsSection = dynamic(
+  () => import("@/components/home/TestimonialsSection"),
+  { suspense: true },
+);
+const FaqSection = dynamic(() => import("@/components/home/FaqSection"), {
+  suspense: true,
+});
 
 export default function HomePage() {
   return (
@@ -78,34 +90,9 @@ export default function HomePage() {
         </div>
       </Section>
 
-      <Section id="download" className="bg-midnight">
-        <div className="mx-auto w-full max-w-6xl px-6">
-          <Reveal>
-            <div className="flex flex-wrap items-end justify-between gap-6">
-              <div className="space-y-3">
-                <Badge>Core services</Badge>
-                <h2 className="text-3xl font-semibold text-white">
-                  Roadside help built for speed & transparency.
-                </h2>
-                <p className="text-white/70">
-                  From towing to mobile mechanics, TowMech keeps you safe with
-                  verified providers and live updates.
-                </p>
-              </div>
-              <Button href="/services" variant="secondary">
-                View all services
-              </Button>
-            </div>
-          </Reveal>
-          <div className="mt-10 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-            {services.map((service, index) => (
-              <Reveal key={service.title} delay={index * 0.05}>
-                <ServiceCard {...service} />
-              </Reveal>
-            ))}
-          </div>
-        </div>
-      </Section>
+      <Suspense fallback={<SectionSkeleton title="Services" />}>
+        <ServicesSection />
+      </Suspense>
 
       <Section>
         <div className="mx-auto w-full max-w-6xl px-6">
@@ -166,56 +153,13 @@ export default function HomePage() {
         </div>
       </Section>
 
-      <Section className="bg-midnight">
-        <div className="mx-auto w-full max-w-6xl px-6">
-          <div className="grid gap-8 lg:grid-cols-[1fr_1fr]">
-            <Reveal>
-              <div className="space-y-4">
-                <Badge>Testimonials</Badge>
-                <h2 className="text-3xl font-semibold text-white">
-                  Customers rate TowMech 4.9/5 for speed and care.
-                </h2>
-                <p className="text-white/70">
-                  Verified reviews from drivers, fleets, and on-demand customers.
-                </p>
-                <div className="flex gap-4">
-                  <div className="rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm text-white/70">
-                    4.9 Average Rating
-                  </div>
-                  <div className="rounded-2xl border border-white/10 bg-white/5 px-4 py-3 text-sm text-white/70">
-                    12k+ Completed jobs
-                  </div>
-                </div>
-              </div>
-            </Reveal>
-            <Reveal delay={0.1}>
-              <TestimonialCarousel testimonials={testimonials} />
-            </Reveal>
-          </div>
-        </div>
-      </Section>
+      <Suspense fallback={<SectionSkeleton title="Testimonials" />}>
+        <TestimonialsSection />
+      </Suspense>
 
-      <Section>
-        <div className="mx-auto w-full max-w-6xl px-6">
-          <div className="grid gap-10 lg:grid-cols-[1fr_1fr]">
-            <Reveal>
-              <div className="space-y-4">
-                <Badge>FAQs</Badge>
-                <h2 className="text-3xl font-semibold text-white">
-                  Answers to keep you moving.
-                </h2>
-                <p className="text-white/70">
-                  Everything you need to know about booking, safety, and
-                  providers.
-                </p>
-              </div>
-            </Reveal>
-            <Reveal delay={0.1}>
-              <Accordion items={faqs} />
-            </Reveal>
-          </div>
-        </div>
-      </Section>
+      <Suspense fallback={<SectionSkeleton title="FAQs" />}>
+        <FaqSection />
+      </Suspense>
     </div>
   );
 }

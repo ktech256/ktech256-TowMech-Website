@@ -1,1 +1,206 @@
+TOWMECH PRIVACY POLICY
 
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+Company: Texas Computer Hub (“TowMech”, “we”, “us”, “our”)
+Product: TowMech Mobile Application & Services (“Platform”)
+
+TowMech respects your privacy. This Privacy Policy explains how we collect, use, store, and share your personal information when you use TowMech.
+
+By using TowMech, you agree to the collection and use of your information as described in this Privacy Policy.
+
+
+1. Information We Collect
+
+We may collect the following information from Customers and Service Providers:
+
+1.1 Personal Information
+- Full name
+- Phone number
+- Email address
+- Account role (Customer / Provider / Admin)
+- Profile information submitted during registration
+
+1.2 Provider Verification Documents
+If you register as a Service Provider, we may collect:
+- Identity documents (ID/Passport)
+- Driver’s license (if required)
+- Vehicle proof documents
+- Workshop proof documents
+- Any additional documents required for verification
+
+Important: Provider documents are stored securely using Firebase.
+
+1.3 Location Data
+TowMech may collect location data including:
+- Your approximate or real-time GPS location
+- Job pickup and destination coordinates
+- Location updates while the app is running (depending on permissions)
+
+We use location data to:
+- Match customers with nearby providers
+- Track job progress
+- Improve service accuracy and safety
+
+1.4 Job & Transaction Data
+We collect job-related data such as:
+- Job requests
+- Job status updates
+- Assigned provider/customer details
+- Job history
+- Pricing, booking fees, and payment status
+- Refund and cancellation records
+
+1.5 Device & Technical Information
+We may collect:
+- Device model and OS version
+- App version
+- IP address
+- Crash logs and performance data
+- Device identifiers (where applicable)
+
+1.6 Communication & Support
+We may store:
+- Messages sent within the app (where applicable)
+- Support tickets and communication history
+- Reports, disputes, and complaint logs
+
+
+2. How We Use Your Information
+
+TowMech uses collected data to:
+- Create and manage your account
+- Verify provider identities and documents
+- Provide job matching and service delivery
+- Process payments, booking fees, and refunds
+- Send OTPs, alerts, and important notifications
+- Detect fraud, abuse, and suspicious behavior
+- Enforce TowMech Terms & Conditions
+- Improve platform performance and user experience
+- Provide customer support and resolve disputes
+- Comply with legal obligations
+
+
+3. Legal Basis for Processing (South Africa)
+
+TowMech processes personal information in line with applicable South African privacy principles, including POPIA (Protection of Personal Information Act), where applicable.
+
+We process your data based on:
+- Your consent (where required)
+- Contractual necessity (to deliver the service)
+- Legal obligations
+- Legitimate interests (fraud prevention, platform security, service improvement)
+
+
+4. Sharing of Information
+
+TowMech may share information only when necessary.
+
+4.1 Between Customers and Providers
+To complete a job, we may share limited information such as:
+- Name
+- Phone number
+- Job location
+- Job details
+- Service category/type
+
+4.2 With Service Providers & Partners
+We may use trusted third-party services such as:
+- Firebase (document storage and app services)
+- Payment providers and verification services
+- Hosting and cloud infrastructure providers
+
+4.3 Legal Disclosure & Safety
+TowMech may disclose user information if:
+- Required by law
+- Requested by law enforcement through proper legal procedure
+- Necessary to protect TowMech, users, or public safety
+- Required for fraud investigations or platform security
+
+TowMech will not disclose a user’s identity based on informal requests.
+Disclosure will only happen when the correct legal process is followed.
+
+
+5. Data Storage & Security
+
+TowMech takes security seriously and uses reasonable safeguards to protect user information.
+
+We apply measures such as:
+- Secure access controls
+- Restricted admin access
+- Encrypted transmission where applicable
+- Firebase secure storage practices for documents
+
+However, no system is 100% secure, and you use the Platform at your own risk.
+
+
+6. Data Retention
+
+TowMech may retain your information for as long as necessary to:
+- Provide services
+- Maintain records for compliance and fraud prevention
+- Resolve disputes and enforce Terms
+- Meet legal and regulatory obligations
+
+TowMech may retain certain data even after account deletion where legally permitted.
+
+
+7. Your Responsibilities
+
+You are responsible for:
+- Keeping your login details private
+- Avoiding sharing OTPs with anyone
+- Using TowMech safely and responsibly
+- Providing accurate registration details
+
+TowMech is not responsible for losses caused by user negligence or unauthorized account access.
+
+
+8. Your Rights
+
+Depending on applicable law, you may have rights to:
+- Request access to your personal data
+- Request correction of inaccurate data
+- Request deletion of certain data (subject to legal limits)
+- Withdraw consent (where processing depends on consent)
+
+TowMech may refuse requests that:
+- Break legal requirements
+- Compromise security
+- Affect other users’ rights
+- Prevent fraud investigations or dispute handling
+
+To make a request, email: support@towmech.com
+
+
+9. Cookies & Web Dashboard
+
+TowMech Admin Dashboard may use cookies or local storage to:
+- Maintain login sessions
+- Improve performance
+- Secure access
+
+You may disable cookies in your browser, but some features may stop working.
+
+
+10. Children’s Privacy
+
+TowMech is not intended for users under 18.
+We do not knowingly collect data from children.
+
+
+11. Updates to This Privacy Policy
+
+TowMech may update this Privacy Policy at any time.
+If we make changes, we will update the “Last Updated” date.
+
+Continued use of the Platform means you accept the updated policy.
+
+
+12. Contact
+
+If you have questions about this Privacy Policy, contact:
+
+support@towmech.com
+TowMech (Texas Computer Hub)
+South Africa
