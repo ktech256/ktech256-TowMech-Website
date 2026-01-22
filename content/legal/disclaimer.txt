@@ -1,0 +1,126 @@
+TOWMECH DISCLAIMER NOTICE
+
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+Company: Texas Computer Hub (“TowMech”, “we”, “us”, “our”)
+Support Email: support@towmech.com
+
+This Disclaimer Notice applies to all users of the TowMech mobile application, website, and services.
+
+By using TowMech, you agree to this Disclaimer.
+
+
+---
+
+1. Platform Role (Important)
+
+TowMech is a technology platform that connects Customers with independent towing and mechanic service Providers.
+
+TowMech does not:
+
+Provide towing or mechanic services directly
+
+Guarantee Provider performance, speed, pricing, or availability
+
+Guarantee the outcome of any job or repair
+
+Act as an insurer, guarantor, or warranty provider
+
+
+Providers are independent parties responsible for their services.
+
+
+---
+
+2. No Warranty
+
+To the maximum extent permitted by law, TowMech provides the platform “AS IS” and “AS AVAILABLE” without warranties of any kind, including but not limited to:
+
+Fitness for a particular purpose
+
+Availability without interruption
+
+Accuracy of job estimates
+
+Provider quality or skill level
+
+Error-free operation
+
+
+
+---
+
+3. Limitation of Liability
+
+To the maximum extent permitted by law, TowMech and Texas Computer Hub shall not be liable for:
+
+Loss of property or valuables
+
+Injury, harm, or threats
+
+Vehicle damage
+
+Service delays
+
+Missed appointments
+
+Provider misconduct
+
+Customer misconduct
+
+Disputes between users
+
+Any indirect, special, incidental, or consequential damages
+
+
+Users assume full responsibility for their interactions and decisions.
+
+
+---
+
+4. Payments and Refunds
+
+TowMech may facilitate payments, booking fees, and refunds.
+However, TowMech does not guarantee that refunds will always apply, and all refunds are subject to verification and applicable rules.
+
+
+---
+
+5. User Responsibility
+
+You agree that you are solely responsible for:
+
+Your account security
+
+Your decisions when accepting or requesting a job
+
+Your conduct and behavior on the platform
+
+Ensuring compliance with applicable laws
+
+
+TowMech may suspend or terminate users who violate policies.
+
+
+---
+
+6. Third-Party Services
+
+TowMech may rely on third-party services such as:
+
+Firebase
+
+Payment providers
+
+Hosting and cloud services
+
+
+TowMech is not responsible for downtime, failure, or loss caused by third-party systems.
+
+
+---
+
+7. Contact
+
+If you have questions, contact:
+📧 support@towmech.com
