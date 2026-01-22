@@ -18,8 +18,8 @@ export function LegalContent({ text }: { text: string }) {
           Contents
         </p>
         <ul className="space-y-2">
-          {sections.map((section) => (
-            <li key={section.id}>
+          {sections.map((section, index) => (
+            <li key={`${section.id}-${index}`}>
               <a href={`#${section.id}`} className="hover:text-white">
                 {section.title}
               </a>
@@ -27,15 +27,20 @@ export function LegalContent({ text }: { text: string }) {
           ))}
         </ul>
       </aside>
+
       <article className="prose-legal">
-        {sections.map((section) => (
-          <div key={section.id} id={section.id} className="scroll-mt-24">
+        {sections.map((section, index) => (
+          <div
+            key={`${section.id}-${index}`}
+            id={section.id}
+            className="scroll-mt-24"
+          >
             <h2>{section.title}</h2>
-            {section.content.map((line, index) =>
+            {section.content.map((line, lineIndex) =>
               line.trim() ? (
-                <p key={index}>{line}</p>
+                <p key={`${section.id}-${index}-${lineIndex}`}>{line}</p>
               ) : (
-                <div key={index} className="h-3" />
+                <div key={`${section.id}-${index}-${lineIndex}`} className="h-3" />
               ),
             )}
           </div>

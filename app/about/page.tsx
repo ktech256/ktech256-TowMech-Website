@@ -70,7 +70,7 @@ export default async function AboutPage() {
                 height={260}
                 className="rounded-3xl"
               />
-              <h3 className="mt-4 text-xl font-semibold text-white">Founder Name</h3>
+              <h3 className="mt-4 text-xl font-semibold text-white">Ongus Killian</h3>
               <p className="text-sm text-white/60">Chief Executive Officer</p>
               <p className="mt-3 text-sm text-white/70">
                 Visionary leadership focused on building a national ecosystem of trusted towing

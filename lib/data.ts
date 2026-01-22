@@ -113,7 +113,7 @@ export const testimonials = [
 
 export const team = [
   {
-    name: "Thandi Mokoena",
+    name: "Ongus Killian",
     title: "Chief Executive Officer",
     bio: "Drives TowMech's mission to deliver safe, premium roadside support.",
   },
