@@ -1,1 +1,422 @@
+TOWMECH TERMS & CONDITIONS
 
+Effective Date: [Insert Date]
+Last Updated: [Insert Date]
+Company: Texas Computer Hub (“TowMech”, “we”, “us”, “our”)
+Product: TowMech Mobile App + Web Services (“Platform”)
+
+By accessing, registering, or using TowMech, you agree to these Terms & Conditions. If you do not agree, do not use the Platform.
+
+
+---
+
+1. About TowMech
+
+TowMech is a digital platform that connects:
+
+Customers requesting towing or mechanical services, and
+
+Service Providers (Tow Truck operators and Mechanics) who offer such services.
+
+
+TowMech provides technology and coordination tools only and does not guarantee outcomes, pricing, provider availability, or service quality.
+
+
+---
+
+2. Eligibility & Account Responsibility
+
+You confirm that:
+
+You are at least 18 years old, or legally allowed to use the Platform.
+
+You will provide accurate information during registration and keep it updated.
+
+You are responsible for all activities performed under your account.
+
+
+TowMech may require verification of identity, documents, location, or contact details at any time.
+
+
+---
+
+3. TowMech’s Right to Accept, Reject, Suspend or Terminate
+
+TowMech reserves the full right, at its sole discretion, to:
+
+Approve or reject any user or provider registration
+
+Suspend, restrict, or terminate access to any account
+
+Remove any content, listings, messages, or profile information
+
+Block or blacklist any user, device, phone number, or payment method
+
+
+This may happen without notice, for any reason including but not limited to:
+
+Suspected fraud or dishonesty
+
+Safety concerns
+
+Abuse, threats, harassment, or violence
+
+Misuse of the Platform
+
+Fake documents or impersonation
+
+Payment disputes, chargebacks, or suspicious activity
+
+Violation of these Terms
+
+Any conduct that may harm TowMech, users, providers, or the public
+
+
+TowMech’s decision is final and not subject to appeal.
+
+
+---
+
+4. User Vigilance & Safety Responsibility
+
+TowMech strongly requires that all users remain vigilant, careful, and judgmental when interacting with others on the Platform.
+
+Customers must:
+
+Verify provider identity and vehicle before accepting service
+
+Avoid unsafe environments and keep personal valuables secured
+
+Use judgment before allowing anyone into personal space or vehicle
+
+Avoid cash handling in unsafe situations
+
+
+Providers must:
+
+Confirm job details before proceeding
+
+Ensure personal safety before arriving at any location
+
+Avoid dangerous areas, suspicious requests, or unlawful instructions
+
+
+TowMech is not responsible for any harm, damage, theft, or conflict arising from user-to-user interactions.
+
+
+---
+
+5. No Guarantee of Service
+
+TowMech does not guarantee:
+
+That a provider will accept a request
+
+That service will arrive on time
+
+That a service will be completed successfully
+
+That a provider has specific skills/tools beyond their declared profile
+
+That prices will remain unchanged due to external conditions
+
+
+Service availability depends on providers, location, demand, traffic, and technical limitations.
+
+
+---
+
+6. Platform Role: Independent Providers
+
+All providers are independent third-party contractors and not employees, agents, or representatives of TowMech or Texas Computer Hub.
+
+TowMech does not control:
+
+Provider behavior
+
+Provider equipment
+
+Provider decision-making
+
+Provider pricing outside Platform rules
+
+The quality or outcome of service
+
+
+Any agreement for service is between the Customer and Provider.
+
+
+---
+
+7. Pricing, Fees & Payments
+
+TowMech may charge:
+
+Booking fees
+
+Platform service fees
+
+Provider charges
+
+Processing fees
+
+
+TowMech reserves the right to:
+
+Change fees at any time
+
+Apply penalties for cancellations, abuse, or misconduct
+
+Hold, delay, reverse, or suspend payments where fraud is suspected
+
+
+All payments must follow the Platform’s approved payment method(s).
+
+
+---
+
+8. Cancellation Rules
+
+TowMech may allow customers and/or providers to cancel jobs, but cancellation rules may vary by:
+
+Job status (created, assigned, in-progress, completed)
+
+Time elapsed
+
+Provider travel or arrival time
+
+Payment status
+
+
+TowMech reserves the right to:
+
+Determine refund eligibility
+
+Reject refund requests
+
+Apply cancellation fees
+
+Limit repeated cancellations or abuse
+
+
+TowMech decisions on cancellations and refunds are final.
+
+
+---
+
+9. Refund Policy
+
+Refunds (if applicable) may depend on:
+
+Provider arrival status
+
+Service status
+
+Time window rules
+
+Verified disputes
+
+
+TowMech is not obligated to issue refunds for:
+
+Customer errors in job details or location
+
+Provider delays due to traffic/weather
+
+Disputes that cannot be verified
+
+Suspicious behavior, fraud, or chargebacks
+
+
+
+---
+
+10. Prohibited Use
+
+You may not use TowMech for:
+
+Fraud, scams, impersonation, or false requests
+
+Violence, harassment, threats, discrimination
+
+Theft or unlawful activities
+
+Uploading fake documents
+
+Damaging the Platform or disrupting services
+
+Attempting to bypass admin approval or verification rules
+
+
+TowMech may report violations to authorities.
+
+
+---
+
+11. Provider Verification, Approval & Compliance
+
+Providers may be required to submit documents such as:
+
+ID documents
+
+Licenses
+
+Vehicle proof
+
+Workshop proof
+
+Any additional documentation required by TowMech
+
+
+TowMech may:
+
+Approve, reject, or request re-submission
+
+Temporarily hide provider features until approval is completed
+
+Suspend provider accounts if documents expire or appear invalid
+
+
+Approval does not guarantee continued acceptance.
+
+
+---
+
+12. Communication & Monitoring
+
+TowMech may monitor, record, or review:
+
+Messages
+
+Job logs
+
+Payment records
+
+Location data (while using the Platform)
+
+Account activity
+
+
+This is for safety, dispute resolution, compliance, and system improvement.
+
+
+---
+
+13. Identity Disclosure & Legal Procedure
+
+TowMech protects user identity and data.
+
+However, TowMech may disclose user identity and information:
+
+When required by law
+
+When presented with valid legal process (court order, subpoena, police request)
+
+When necessary to protect TowMech, users, or public safety
+
+For fraud investigations and security enforcement
+
+
+TowMech will only disclose identity through the proper procedure, and reserves the right to reject informal requests.
+
+
+---
+
+14. Limitation of Liability
+
+To the maximum extent permitted by law:
+
+TowMech, Texas Computer Hub, and its officers, employees, contractors, and partners will not be liable for:
+
+Injury, death, theft, robbery, loss, damage
+
+Property damage, vehicle damage, mechanical damage
+
+Disputes between customers and providers
+
+Delays, missed jobs, or service failure
+
+Lost profits, lost income, emotional distress
+
+Any indirect or consequential damages
+
+
+Use of TowMech is at your own risk.
+
+
+---
+
+15. Indemnity
+
+You agree to defend, indemnify, and hold harmless TowMech and Texas Computer Hub from any claims, losses, disputes, damages, legal fees, or liabilities arising from:
+
+Your use of the Platform
+
+Your violation of these Terms
+
+Your interaction with other users
+
+Your services (if you are a provider)
+
+
+
+---
+
+16. Service Interruptions & Changes
+
+TowMech may:
+
+Update features
+
+Remove modules
+
+Disable services temporarily
+
+Shut down services in any region
+
+Perform maintenance without notice
+
+
+TowMech is not responsible for downtime or losses resulting from service interruptions.
+
+
+---
+
+17. Intellectual Property
+
+TowMech owns all rights to:
+
+App design, branding, logos
+
+Code, systems, UI, data structure
+
+Business processes and platform features
+
+
+You may not copy, modify, reverse engineer, or resell TowMech.
+
+
+---
+
+18. Governing Law
+
+These Terms are governed by the laws of: [Insert Country/Province – likely South Africa]
+
+TowMech may choose the jurisdiction and venue for any disputes.
+
+
+---
+
+19. Updates to These Terms
+
+TowMech may update these Terms at any time. Continued use after updates means you accept the new Terms.
+
+
+---
+
+20. Contact
+
+For support, disputes, or legal requests:
+Email: [Insert Support Email]
+Company: Texas Computer Hub
+Product: TowMech
