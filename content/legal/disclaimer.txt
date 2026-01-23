@@ -9,6 +9,7 @@ This Disclaimer Notice applies to all users of the TowMech mobile application, w
 
 By using TowMech, you agree to this Disclaimer.
 
+---
 
 1. Platform Role (Important)
 
@@ -22,6 +23,7 @@ TowMech does not:
 
 Providers are independent parties responsible for their services.
 
+---
 
 2. No Warranty
 
@@ -32,6 +34,7 @@ To the maximum extent permitted by law, TowMech provides the platform â€œAS ISâ€
 - Provider quality or skill level
 - Error-free operation
 
+---
 
 3. Limitation of Liability
 
@@ -48,12 +51,14 @@ To the maximum extent permitted by law, TowMech and Texas Computer Hub shall not
 
 Users assume full responsibility for their interactions and decisions.
 
+---
 
 4. Payments and Refunds
 
 TowMech may facilitate payments, booking fees, and refunds.
 However, TowMech does not guarantee that refunds will always apply, and all refunds are subject to verification and applicable rules.
 
+---
 
 5. User Responsibility
 
@@ -65,6 +70,7 @@ You agree that you are solely responsible for:
 
 TowMech may suspend or terminate users who violate policies.
 
+---
 
 6. Third-Party Services
 
@@ -75,6 +81,7 @@ TowMech may rely on third-party services such as:
 
 TowMech is not responsible for downtime, failure, or loss caused by third-party systems.
 
+---
 
 7. Contact
 

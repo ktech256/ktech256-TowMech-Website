@@ -17,7 +17,9 @@ export default async function AboutPage() {
           <Reveal>
             <div className="space-y-4">
               <Badge>About TowMech</Badge>
-              <h1 className="text-4xl font-semibold text-white">Built for safer journeys.</h1>
+              <h1 className="text-4xl font-semibold text-white">
+                Built for safer journeys.
+              </h1>
               <p className="text-white/70">
                 TowMech is a product of Texas Computer Hub, delivering premium roadside
                 support across South Africa.
@@ -92,9 +94,10 @@ export default async function AboutPage() {
               </p>
             </div>
           </Reveal>
+
           <div className="mt-10 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
             {team.map((member, index) => (
-              <Reveal key={member.name} delay={index * 0.05}>
+              <Reveal key={`${member.name}-${index}`} delay={index * 0.05}>
                 <Card className="text-center">
                   <SmartImage
                     src="/images/team-placeholder.svg"
