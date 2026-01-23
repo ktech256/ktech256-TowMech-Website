@@ -79,8 +79,8 @@ export default function HomePage() {
                 <SmartImage
                   src="/images/phone-mockup.svg"
                   alt="TowMech app preview"
-                  width={520}
-                  height={720}
+                  width={720}
+                  height={920}
                   className="h-auto w-full rounded-2xl"
                   priority
                 />
