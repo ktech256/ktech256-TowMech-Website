@@ -11,122 +11,75 @@ Your safety is important, and all users must follow these safety guidelines.
 By using TowMech, you accept responsibility for making safe and reasonable decisions before, during, and after any job.
 
 
----
-
 1. General Safety Principles
 
 All users must:
-
-Stay alert and vigilant at all times
-
-Use good judgment when interacting with others
-
-Avoid risky environments where possible
-
-Report suspicious or unsafe behavior immediately
-
+- Stay alert and vigilant at all times
+- Use good judgment when interacting with others
+- Avoid risky environments where possible
+- Report suspicious or unsafe behavior immediately
 
 TowMech encourages responsible decision-making from both Customers and Providers.
 
 
----
-
 2. Customer Safety Tips
 
 Customers should:
-
-Confirm the Provider’s identity before allowing access to your vehicle
-
-Meet the Provider in a well-lit and safe location
-
-Keep personal valuables secured
-
-Avoid sharing personal details unnecessarily
-
-Never share your OTP or account password with anyone
-
-Use the TowMech chat/call options responsibly
-
-Cancel the job if you feel unsafe
-
+- Confirm the Provider’s identity before allowing access to your vehicle
+- Meet the Provider in a well-lit and safe location
+- Keep personal valuables secured
+- Avoid sharing personal details unnecessarily
+- Never share your OTP or account password with anyone
+- Use the TowMech chat/call options responsibly
+- Cancel the job if you feel unsafe
 
 If you feel in danger:
 📌 Leave the area immediately and contact emergency services.
 
 
----
-
 3. Provider Safety Tips
 
 Providers should:
-
-Confirm the job details before traveling
-
-Avoid unsafe or suspicious locations
-
-Never request Customer OTPs or passwords
-
-Maintain professional conduct at all times
-
-Refuse service if the situation is dangerous or unlawful
-
-Avoid handling Customer valuables or personal items
-
+- Confirm the job details before traveling
+- Avoid unsafe or suspicious locations
+- Never request Customer OTPs or passwords
+- Maintain professional conduct at all times
+- Refuse service if the situation is dangerous or unlawful
+- Avoid handling Customer valuables or personal items
 
 TowMech is not responsible for disputes caused by unprofessional conduct.
 
 
----
-
 4. Vehicle & Property Safety
 
 TowMech recommends that:
-
-Customers remove valuable items from vehicles where possible
-
-Providers handle vehicles responsibly and avoid unnecessary damage
-
-Both parties document the vehicle condition if necessary
-
-Service work should only be done with Customer consent
-
+- Customers remove valuable items from vehicles where possible
+- Providers handle vehicles responsibly and avoid unnecessary damage
+- Both parties document the vehicle condition if necessary
+- Service work should only be done with Customer consent
 
 TowMech does not guarantee the condition of vehicles, tools, or property during service.
 
 
----
-
 5. Emergencies and Incidents
 
 If an incident happens (theft, assault, damage, threats, fraud):
-
-Contact local emergency services immediately
-
-Preserve evidence (screenshots, photos, messages)
-
-Report to TowMech support as soon as possible
-
+- Contact local emergency services immediately
+- Preserve evidence (screenshots, photos, messages)
+- Report to TowMech support as soon as possible
 
 TowMech may assist with internal investigations but is not a law enforcement agency.
 
 
----
-
 6. Identity Disclosure & Legal Requests
 
 TowMech will only disclose user identity information:
-
-When legally required
-
-When a valid legal process is followed
-
-When the request is made through the correct official channels
-
+- When legally required
+- When a valid legal process is followed
+- When the request is made through the correct official channels
 
 TowMech will not release user identity information based on informal requests.
 
-
----
 
 7. Reporting
 

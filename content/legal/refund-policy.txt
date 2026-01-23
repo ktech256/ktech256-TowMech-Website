@@ -11,103 +11,68 @@ This Refund & Cancellation Policy explains how cancellations and refunds work on
 By using TowMech, you agree to the rules below.
 
 
----
-
 1. Definitions
 
 Booking Fee: The fee charged to confirm a job request on TowMech.
-
 Job Assigned: When a Provider has accepted and is officially allocated to a Customer job.
-
 Refund: A return of paid funds back to the Customer where applicable.
-
 No Refund: A situation where a cancellation is permitted but the booking fee is not returned.
 
-
-
----
 
 2. Customer Cancellations
 
 Customers may cancel a job at any time. However, whether the booking fee is refunded depends on the timing and job status.
 
 2.1 Cancellation Within 3 Minutes After Assignment
-
 If the Customer cancels within 3 minutes after the job is assigned, then:
 ✅ The Customer may qualify for a refund of the booking fee.
 
 2.2 Cancellation After 3 Minutes of Assignment
-
 If the Customer cancels after 3 minutes, then:
 ❌ The booking fee is not refunded, unless otherwise required by law or approved by TowMech.
 
 2.3 Provider Delay (45 Minutes Rule)
-
 If the Provider has not arrived within 45 minutes after assignment, then:
 ✅ The Customer may cancel and qualify for a refund of the booking fee, subject to verification.
 
-
----
 
 3. Provider Cancellations
 
 Providers must not accept jobs they cannot complete.
 
 If a Provider cancels a job after accepting/being assigned, TowMech may:
-
-Restrict Provider access
-
-Reduce visibility/priority
-
-Apply penalties
-
-Suspend or terminate the Provider account
-
-Mark the Provider as unreliable in internal safety logs
-
+- Restrict Provider access
+- Reduce visibility/priority
+- Apply penalties
+- Suspend or terminate the Provider account
+- Mark the Provider as unreliable in internal safety logs
 
 TowMech reserves the right to take any action necessary to protect Customers and platform integrity.
 
-
----
 
 4. Refund Processing
 
 Refunds (where applicable) are processed based on the payment provider’s timelines and internal verification checks.
 
 Refund processing may require:
-
-Job review
-
-Status verification
-
-Evidence review
-
-Confirmation of payment status
-
+- Job review
+- Status verification
+- Evidence review
+- Confirmation of payment status
 
 TowMech does not guarantee instant refunds.
 
 
----
-
 5. Fraud & Abuse
 
 TowMech may deny refunds or reverse refund eligibility where there is:
-
-Fraud
-
-Abuse of the cancellation system
-
-False reporting
-
-Suspicious or repeated cancellation behavior
-
+- Fraud
+- Abuse of the cancellation system
+- False reporting
+- Suspicious or repeated cancellation behavior
 
 TowMech’s decision is final unless legally required otherwise.
 
-
----
 
 6. Contact
 
