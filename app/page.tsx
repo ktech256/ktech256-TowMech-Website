@@ -9,17 +9,15 @@ import { SectionSkeleton } from "@/components/SectionSkeleton";
 import { howItWorks } from "@/lib/data";
 import { ShieldCheck, Smartphone, Timer } from "lucide-react";
 
-const ServicesSection = dynamic(
-  () => import("@/components/home/ServicesSection"),
-  { suspense: true },
-);
+// ✅ FIX: remove `{ suspense: true }` from next/dynamic options
+// Keep Suspense wrappers exactly as you had them (no functionality change).
+const ServicesSection = dynamic(() => import("@/components/home/ServicesSection"));
+
 const TestimonialsSection = dynamic(
   () => import("@/components/home/TestimonialsSection"),
-  { suspense: true },
 );
-const FaqSection = dynamic(() => import("@/components/home/FaqSection"), {
-  suspense: true,
-});
+
+const FaqSection = dynamic(() => import("@/components/home/FaqSection"));
 
 export default function HomePage() {
   return (
