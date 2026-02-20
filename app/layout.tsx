@@ -45,7 +45,7 @@ export default function RootLayout({
     <html lang="en" className={inter.variable}>
       <body>
         <Navbar />
-        <main className="overflow-hidden">
+        <main className="overflow-hidden pt-2 md:pt-0">
           <PageTransition>{children}</PageTransition>
         </main>
         <Footer />
